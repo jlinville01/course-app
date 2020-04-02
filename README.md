@@ -12,3 +12,5 @@ This application was an assignment for a Santa Monica College server-side ruby c
 6. `rake db:migrate`
 7. `rake db:seed`
 8. Visit `http://localhost:3000/courses`
+
+![Alt Text](https://media.giphy.com/media/3o7TKSwUl5DyTynXY4/giphy.gif)
