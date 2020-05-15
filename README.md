@@ -4,13 +4,13 @@ This application was an assignment for a Santa Monica College server-side ruby c
 
 # Setup
 
-1. Clone the repo.
-2. `cd /marvel-api`
+1. `git clone https://github.com/jlinville01/course-app.git`
+2. `cd marvel-api`
 3. `bundle install`
-4. `rails s`
-5. `rake db:create`
-6. `rake db:migrate`
-7. `rake db:seed`
+4. `rake db:create`
+5. `rake db:migrate`
+6. `rake db:seed`
+7. `rails s`
 8. Visit `http://localhost:3000/courses`
 
 ![Alt Text](https://media.giphy.com/media/3o7TKSwUl5DyTynXY4/giphy.gif)
