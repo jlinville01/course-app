@@ -1,8 +1,6 @@
 # Course App
 
-This application was an assignment for a Santa Monica College server-side ruby course with the purpose to construct a Rails web application without using Rails scaffolding.
-
-# Setup
+## Setup
 
 1. `git clone https://github.com/jlinville01/course-app.git`
 2. `cd marvel-api`
